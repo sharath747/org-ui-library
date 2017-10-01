@@ -1,0 +1,28 @@
+{
+  "name": "org-ui-library",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharath747/org-ui-library"
+  },
+  "author": {
+    "name": "Sharath",
+    "email": "sharath.infonaut@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharath747/org-ui-library/issues"
+  },
+  "main": "org-ui-library.umd.js",
+  "module": "org-ui-library.js",
+  "jsnext:main": "org-ui-library.js",
+  "typings": "org-ui-library.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
